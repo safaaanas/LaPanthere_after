@@ -83,7 +83,6 @@ a:hover {
 .bloc-bg-texture::before {
     content: "";
     background-size: 2px 2px;
-    position: absolute;
     top: 0;
     bottom: 0;
     left: 0;
@@ -123,7 +122,6 @@ a:hover {
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
 .d-bloc a .icon-sm,
-.d-bloc a .icon-md,
 .d-bloc a .icon-lg,
 .d-bloc a .icon-xl,
 .d-bloc h1 a,
